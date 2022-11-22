@@ -1,0 +1,13 @@
+C:\Users\VIERNES\source\repos\EstructuradaII\EstructuradaII\bin\Debug\EstructuradaII.exe.config
+C:\Users\VIERNES\source\repos\EstructuradaII\EstructuradaII\bin\Debug\EstructuradaII.exe
+C:\Users\VIERNES\source\repos\EstructuradaII\EstructuradaII\bin\Debug\EstructuradaII.pdb
+C:\Users\VIERNES\source\repos\EstructuradaII\EstructuradaII\bin\Debug\EstructuradaII.xml
+C:\Users\VIERNES\source\repos\EstructuradaII\EstructuradaII\obj\Debug\EstructuradaII.vbproj.AssemblyReference.cache
+C:\Users\VIERNES\source\repos\EstructuradaII\EstructuradaII\obj\Debug\EstructuradaII.Resources.resources
+C:\Users\VIERNES\source\repos\EstructuradaII\EstructuradaII\obj\Debug\EstructuradaII.vbproj.GenerateResource.cache
+C:\Users\VIERNES\source\repos\EstructuradaII\EstructuradaII\obj\Debug\EstructuradaII.vbproj.CoreCompileInputs.cache
+C:\Users\VIERNES\source\repos\EstructuradaII\EstructuradaII\obj\Debug\EstructuradaII.exe
+C:\Users\VIERNES\source\repos\EstructuradaII\EstructuradaII\obj\Debug\EstructuradaII.xml
+C:\Users\VIERNES\source\repos\EstructuradaII\EstructuradaII\obj\Debug\EstructuradaII.pdb
+C:\Users\VIERNES\source\repos\EstructuradaII\EstructuradaII\obj\Debug\EstructuradaII.Form1.resources
+C:\Users\VIERNES\source\repos\EstructuradaII\EstructuradaII\obj\Debug\EstructuradaII.Form2.resources
