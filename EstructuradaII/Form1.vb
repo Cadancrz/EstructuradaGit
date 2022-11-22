@@ -4,6 +4,7 @@ Public Class Form1
     Dim con As New ClsConexion
     Dim dv As New DataView
     Dim dr As SqlDataReader
+    Dim holamundo As Integer
 
     Public Sub limpiar()
         TxtId.Text = ""
